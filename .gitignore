@@ -1,0 +1,21 @@
+# Database
+*.db
+*.sqlite
+*.sqlite3
+
+# Enviroment variables
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Virtual venv
+venv/
+env/
+.venv/
+
+# Others
+services/simulador.py

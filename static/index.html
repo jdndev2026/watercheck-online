@@ -1,0 +1,218 @@
+<!doctype html>
+<html lang="es">
+
+<head>
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+	<title>Watercheck Online – Dashboard de Monitoreo</title>
+	<link
+		href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@300;400;500;600;700&family=Space+Grotesk:wght@400;500;600;700&display=swap"
+		rel="stylesheet" />
+	<link rel="stylesheet" href="/static/css/styles.css" />
+</head>
+
+<body>
+<!-- ═══════════════════════════════════════
+     PAGE 1 – DASHBOARD PRINCIPAL
+═══════════════════════════════════════ -->
+	<div id="page1" class="page active">
+		<!-- SECCIÓN 1: Header -->
+		<div class="header">
+			<h1>Dashboard de Monitoreo: Watercheck Online</h1>
+			<p>Para actualizar los resultados, recargue la página</p>
+		</div>
+
+		<div class="dashboard-body">
+			<!-- SECCIÓN 2: Parámetros + Total/Gráfico -->
+			<div class="top-row">
+				<!-- Parámetros del sensor -->
+				<div class="card params-card">
+					<div class="card-title">Parámetros del Sensor Waterchecker</div>
+					<div class="card-body">
+						<div class="param-list">
+							<div class="param-item">
+								<div class="param-icon">🧪</div>
+								<div class="param-info">
+									<div class="param-name">TDS</div>
+									<div class="param-sub">(Sólidos Totales Disueltos)</div>
+									<div class="param-unit">ppm</div>
+									<div class="param-bullet">
+										Monitoreo constante de tres variables críticas
+									</div>
+								</div>
+							</div>
+
+							<div class="param-item">
+								<div class="param-icon">🌡️</div>
+								<div class="param-info">
+									<div class="param-name">pH</div>
+									<div class="param-sub">(Nivel de acidez/alcalinidad)</div>
+									<div class="param-unit">&nbsp;</div>
+									<div class="param-bullet">
+										Estabilidad del nivel de acidez
+									</div>
+								</div>
+							</div>
+
+							<div class="param-item">
+								<div class="param-icon">💧</div>
+								<div class="param-info">
+									<div class="param-name">Turbidez</div>
+									<div class="param-sub">(Claridad del agua)</div>
+									<div class="param-unit">NTU</div>
+									<div class="param-bullet">
+										Análisis de sedimentos en suspensión
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<!-- Total de lugares + Gráfico de potabilidad -->
+				<div class="total-card">
+					<div class="total-box">
+						<div class="total-icon">📅</div>
+						<div>
+							<div class="total-label">Total de Lugares Medidos:</div>
+							<div id="total-number"></div>
+						</div>
+					</div>
+					<div class="card" style="
+						flex: 1;
+						margin: 0;
+						box-shadow: none;
+						border: 1px solid var(--gray-200);
+					">
+						<div class="card-title">Desglose de Potabilidad</div>
+						<div class="card-body">
+							<div class="chart-row">
+								<div style="
+									display: flex;
+									flex-direction: column;
+									align-items: center;
+									justify-content: center;
+									height: 100%;
+									gap: 10px;
+								">
+									<div class="donut-wrap">
+										<canvas id="donutChart"></canvas>
+										<div class="donut-center">
+											<span class="donut-pct" id="donutPct">90%</span>
+											<span class="donut-lbl">Potable</span>
+										</div>
+									</div>
+								</div>
+								<div class="legend-list" id="legendList"></div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- /top-row -->
+
+			<!-- SECCIÓN 3: Estándares de Calidad -->
+			<div class="card standards-card">
+				<div class="card-title">Estándares de Calidad (TDS)</div>
+				<div class="card-body">
+					<p class="std-sub">
+						Clasificación según la Organización Mundial de la Salud
+					</p>
+					<div id="standards-table" class="std-bar">
+					</div>
+				</div>
+			</div>
+
+			<!-- SECCIÓN 4: Tabla principal -->
+			<div class="card">
+				<div class="card-title">Registro Histórico y Acciones</div>
+				<div class="card-body" style="padding: 14px 0">
+					<div class="table-wrap">
+						<table id="mainTable">
+							<thead>
+								<tr>
+									<th>Watercheck ID</th>
+									<th>Total mediciones</th>
+									<th>Fecha última medición</th>
+									<th>Hora última medición</th>
+									<th>Potabilidad actual</th>
+									<th>Acciones</th>
+								</tr>
+							</thead>
+							<tbody id="mainTbody"></tbody>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+		<!-- /dashboard-body -->
+	</div>
+	<!-- /page1 -->
+
+<!-- ═══════════════════════════════════════
+     PAGE 2 – DETALLE DE MEDICIONES
+═══════════════════════════════════════ -->
+	<div id="page2" class="page">
+		<div class="detail-header">
+			<button class="back-btn">← Volver</button>
+			<h2 id="detailTitle"></h2>
+		</div>
+		<div class="detail-body">
+			<div class="card">
+				<div class="card-title">Detalle de Mediciones</div>
+				<div class="card-body" style="padding: 14px 0">
+					<div class="table-wrap">
+						<table id="detailTable">
+							<thead>
+								<tr>
+									<th>ID Medición</th>
+									<th>Fecha</th>
+									<th>Hora</th>
+									<th>TDS (ppm)</th>
+									<th>Turbidez (NTU)</th>
+									<th>pH</th>
+									<th>Potabilidad</th>
+									<th>Acciones</th>
+								</tr>
+							</thead>
+							<tbody id="detailTbody"></tbody>
+						</table>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<!-- /page2 -->
+
+	<!-- ═══════════════════════════════════════
+     MODAL DE CORREO
+═══════════════════════════════════════ -->
+	<div class="modal-overlay" id="emailModal">
+		<div class="modal">
+			<div class="modal-head" id="modalHead">
+				<span id="modalTitle">Vista previa del correo</span>
+				<button class="close-btn" id="modalCloseBtn">✕</button>
+			</div>
+			<div class="modal-body">
+				<div class="email-preview">
+					<div class="email-meta">
+					<span><strong>Para:</strong> <span id="emailDestinatario"></span></span>
+					<span><strong>Asunto:</strong> <span id="emailSubject"></span></span>
+					</div>
+					<div class="email-content" id="emailContent"></div>
+				</div>
+			</div>
+			<div class="modal-actions">
+				<button class="btn-cancel" id="modalCancelBtn">Cancelar</button>
+				<button class="btn-send">📧 Enviar correo</button>
+			</div>
+		</div>
+	</div>
+
+	<!-- scripts necesarios -->
+	<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+	<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+	<script type="module" src="/static/js/main.js"></script>
+</body>
+
+</html>

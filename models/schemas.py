@@ -9,10 +9,10 @@ class Watercheck(Base):
     __tablename__ = "watercheck"
 
     id                  = Column(String(10), primary_key=True)
-    estandar_id         = Column(Integer, ForeignKey("estandaresTDS.id"), nullable=False)
-    id_ultima_medicion  = Column(Integer, ForeignKey("mediciones.id"), nullable=False)
-    correo_enviado_hoy  = Column(Integer, nullable=False, default=0)
+    id_ultima_medicion  = Column(Integer, ForeignKey("mediciones.id"), nullable=True, default=None)
+    estandar_id         = Column(Integer, ForeignKey("estandaresTDS.id"), nullable=True, default=None)
     correo_usuario      = Column(String(200), nullable=False)
+    correo_enviado_hoy  = Column(Integer, nullable=False, default=0)
     
     relacion_mediciones = relationship( "Mediciones", back_populates="relacion_watercheck", cascade="all, delete-orphan", foreign_keys="Mediciones.watercheck_id" )
     relacion_estandar   = relationship( "EstandaresTDS", back_populates="relacion_watercheck" )

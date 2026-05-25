@@ -5,11 +5,12 @@ from contextlib import asynccontextmanager
 from db.database import engine, Base
 from models.schemas import Watercheck, Mediciones, EstandaresTDS
 from routers import endpoints
-from routers.startup import startup_database
+from routers.startup import startup_estandars, startup_data
 
 @asynccontextmanager
 async def lifespan( app : FastAPI ):
-    await startup_database()
+    await startup_estandars()
+    await startup_data()
     yield
 
 #########################################

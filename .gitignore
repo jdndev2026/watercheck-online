@@ -19,4 +19,4 @@ env/
 
 # Others
 services/simulador.py
-db/seed_data.json
+# db/seed_data.json

@@ -1,0 +1,1706 @@
+{
+    "watercheck": [
+        {
+            "id": "WC001",
+            "correo_usuario": "juandiegonieto31@gmail.com",
+            "correo_enviado_hoy": 0
+        },
+        {
+            "id": "WC002",
+            "correo_usuario": "jnietol07227@universidadean.edu.co",
+            "correo_enviado_hoy": 0
+        },
+        {
+            "id": "WC003",
+            "correo_usuario": "gustavolopez.5613@gmail.com ",
+            "correo_enviado_hoy": 0
+        },
+        {
+            "id": "WC004",
+            "correo_usuario": "glopezv32363@universidadean.edu.co",
+            "correo_enviado_hoy": 0
+        },
+        {
+            "id": "WC005",
+            "correo_usuario": "Jesus.99.tamayo@gmail.com",
+            "correo_enviado_hoy": 0
+        },
+        {
+            "id": "WC006",
+            "correo_usuario": "Jtamayo39921@universidadean.edu.co",
+            "correo_enviado_hoy": 0
+        },
+        {
+            "id": "WC007",
+            "correo_usuario": "juandiegonieto31@gmail.com",
+            "correo_enviado_hoy": 0
+        },
+        {
+            "id": "WC008",
+            "correo_usuario": "jnietol07227@universidadean.edu.co",
+            "correo_enviado_hoy": 0
+        },
+        {
+            "id": "WC009",
+            "correo_usuario": "gustavolopez.5613@gmail.com ",
+            "correo_enviado_hoy": 0
+        },
+        {
+            "id": "WC010",
+            "correo_usuario": "glopezv32363@universidadean.edu.co",
+            "correo_enviado_hoy": 0
+        },
+        {
+            "id": "WC011",
+            "correo_usuario": "Jesus.99.tamayo@gmail.com",
+            "correo_enviado_hoy": 0
+        },
+        {
+            "id": "WC012",
+            "correo_usuario": "Jtamayo39921@universidadean.edu.co",
+            "correo_enviado_hoy": 0
+        },
+        {
+            "id": "WC013",
+            "correo_usuario": "juandiegonieto31@gmail.com",
+            "correo_enviado_hoy": 0
+        },
+        {
+            "id": "WC014",
+            "correo_usuario": "jnietol07227@universidadean.edu.co",
+            "correo_enviado_hoy": 0
+        },
+        {
+            "id": "WC015",
+            "correo_usuario": "gustavolopez.5613@gmail.com ",
+            "correo_enviado_hoy": 0
+        },
+        {
+            "id": "WC016",
+            "correo_usuario": "glopezv32363@universidadean.edu.co",
+            "correo_enviado_hoy": 0
+        },
+        {
+            "id": "WC017",
+            "correo_usuario": "Jesus.99.tamayo@gmail.com",
+            "correo_enviado_hoy": 0
+        },
+        {
+            "id": "WC018",
+            "correo_usuario": "Jtamayo39921@universidadean.edu.co",
+            "correo_enviado_hoy": 0
+        },
+        {
+            "id": "WC019",
+            "correo_usuario": "juandiegonieto31@gmail.com",
+            "correo_enviado_hoy": 0
+        },
+        {
+            "id": "WC020",
+            "correo_usuario": "jnietol07227@universidadean.edu.co",
+            "correo_enviado_hoy": 0
+        }
+    ],
+    "mediciones": [
+        {
+            "watercheck_id": "WC001",
+            "fecha": "2026-04-25",
+            "hora": "17:15:00",
+            "tds": 332.71,
+            "turbidez": 7.0,
+            "ph": 8.44
+        },
+        {
+            "watercheck_id": "WC002",
+            "fecha": "2026-04-25",
+            "hora": "17:16:00",
+            "tds": 557.42,
+            "turbidez": 5.08,
+            "ph": 7.42
+        },
+        {
+            "watercheck_id": "WC003",
+            "fecha": "2026-04-25",
+            "hora": "17:17:00",
+            "tds": 21.37,
+            "turbidez": 1.26,
+            "ph": 7.16
+        },
+        {
+            "watercheck_id": "WC004",
+            "fecha": "2026-04-25",
+            "hora": "17:18:00",
+            "tds": 310.52,
+            "turbidez": 3.19,
+            "ph": 8.43
+        },
+        {
+            "watercheck_id": "WC005",
+            "fecha": "2026-04-25",
+            "hora": "17:19:00",
+            "tds": 39.97,
+            "turbidez": 2.98,
+            "ph": 6.99
+        },
+        {
+            "watercheck_id": "WC006",
+            "fecha": "2026-04-25",
+            "hora": "17:20:00",
+            "tds": 1593.51,
+            "turbidez": 0.2,
+            "ph": 8.28
+        },
+        {
+            "watercheck_id": "WC007",
+            "fecha": "2026-04-25",
+            "hora": "17:21:00",
+            "tds": 868.37,
+            "turbidez": 0.61,
+            "ph": 7.95
+        },
+        {
+            "watercheck_id": "WC008",
+            "fecha": "2026-04-25",
+            "hora": "17:22:00",
+            "tds": 131.84,
+            "turbidez": 12.3,
+            "ph": 7.15
+        },
+        {
+            "watercheck_id": "WC009",
+            "fecha": "2026-04-25",
+            "hora": "17:23:00",
+            "tds": 474.52,
+            "turbidez": 2.32,
+            "ph": 6.82
+        },
+        {
+            "watercheck_id": "WC010",
+            "fecha": "2026-04-25",
+            "hora": "17:24:00",
+            "tds": 826.78,
+            "turbidez": 5.82,
+            "ph": 7.65
+        },
+        {
+            "watercheck_id": "WC011",
+            "fecha": "2026-04-25",
+            "hora": "17:25:00",
+            "tds": 1174.61,
+            "turbidez": 7.04,
+            "ph": 6.35
+        },
+        {
+            "watercheck_id": "WC012",
+            "fecha": "2026-04-25",
+            "hora": "17:26:00",
+            "tds": 1513.62,
+            "turbidez": 9.69,
+            "ph": 6.48
+        },
+        {
+            "watercheck_id": "WC013",
+            "fecha": "2026-04-25",
+            "hora": "17:27:00",
+            "tds": 1122.49,
+            "turbidez": 13.9,
+            "ph": 6.6
+        },
+        {
+            "watercheck_id": "WC014",
+            "fecha": "2026-04-25",
+            "hora": "17:28:00",
+            "tds": 68.12,
+            "turbidez": 0.43,
+            "ph": 6.09
+        },
+        {
+            "watercheck_id": "WC015",
+            "fecha": "2026-04-25",
+            "hora": "17:29:00",
+            "tds": 371.73,
+            "turbidez": 5.45,
+            "ph": 6.95
+        },
+        {
+            "watercheck_id": "WC016",
+            "fecha": "2026-04-25",
+            "hora": "17:30:00",
+            "tds": 1778.66,
+            "turbidez": 4.9,
+            "ph": 7.19
+        },
+        {
+            "watercheck_id": "WC017",
+            "fecha": "2026-04-25",
+            "hora": "17:31:00",
+            "tds": 1057.56,
+            "turbidez": 10.23,
+            "ph": 6.78
+        },
+        {
+            "watercheck_id": "WC018",
+            "fecha": "2026-04-25",
+            "hora": "17:32:00",
+            "tds": 790.7,
+            "turbidez": 0.38,
+            "ph": 6.39
+        },
+        {
+            "watercheck_id": "WC019",
+            "fecha": "2026-04-25",
+            "hora": "17:33:00",
+            "tds": 1589.99,
+            "turbidez": 12.43,
+            "ph": 6.81
+        },
+        {
+            "watercheck_id": "WC020",
+            "fecha": "2026-04-25",
+            "hora": "17:34:00",
+            "tds": 439.35,
+            "turbidez": 2.13,
+            "ph": 6.0
+        },
+        {
+            "watercheck_id": "WC001",
+            "fecha": "2026-04-25",
+            "hora": "17:35:00",
+            "tds": 1134.18,
+            "turbidez": 8.91,
+            "ph": 6.42
+        },
+        {
+            "watercheck_id": "WC002",
+            "fecha": "2026-04-25",
+            "hora": "17:36:00",
+            "tds": 1785.89,
+            "turbidez": 7.87,
+            "ph": 8.15
+        },
+        {
+            "watercheck_id": "WC003",
+            "fecha": "2026-04-25",
+            "hora": "17:37:00",
+            "tds": 627.55,
+            "turbidez": 6.86,
+            "ph": 6.4
+        },
+        {
+            "watercheck_id": "WC004",
+            "fecha": "2026-04-25",
+            "hora": "17:38:00",
+            "tds": 1184.04,
+            "turbidez": 12.75,
+            "ph": 7.29
+        },
+        {
+            "watercheck_id": "WC005",
+            "fecha": "2026-04-25",
+            "hora": "17:39:00",
+            "tds": 805.58,
+            "turbidez": 11.89,
+            "ph": 7.88
+        },
+        {
+            "watercheck_id": "WC006",
+            "fecha": "2026-04-25",
+            "hora": "17:40:00",
+            "tds": 213.35,
+            "turbidez": 7.78,
+            "ph": 7.37
+        },
+        {
+            "watercheck_id": "WC007",
+            "fecha": "2026-04-25",
+            "hora": "17:41:00",
+            "tds": 413.88,
+            "turbidez": 12.7,
+            "ph": 8.48
+        },
+        {
+            "watercheck_id": "WC008",
+            "fecha": "2026-04-25",
+            "hora": "17:42:00",
+            "tds": 972.07,
+            "turbidez": 6.34,
+            "ph": 7.89
+        },
+        {
+            "watercheck_id": "WC009",
+            "fecha": "2026-04-25",
+            "hora": "17:43:00",
+            "tds": 552.79,
+            "turbidez": 10.67,
+            "ph": 8.04
+        },
+        {
+            "watercheck_id": "WC010",
+            "fecha": "2026-04-25",
+            "hora": "17:44:00",
+            "tds": 1593.52,
+            "turbidez": 10.35,
+            "ph": 7.33
+        },
+        {
+            "watercheck_id": "WC011",
+            "fecha": "2026-04-25",
+            "hora": "17:45:00",
+            "tds": 121.41,
+            "turbidez": 8.32,
+            "ph": 6.0
+        },
+        {
+            "watercheck_id": "WC012",
+            "fecha": "2026-04-25",
+            "hora": "17:46:00",
+            "tds": 383.15,
+            "turbidez": 11.21,
+            "ph": 7.36
+        },
+        {
+            "watercheck_id": "WC013",
+            "fecha": "2026-04-25",
+            "hora": "17:47:00",
+            "tds": 446.92,
+            "turbidez": 1.15,
+            "ph": 7.44
+        },
+        {
+            "watercheck_id": "WC014",
+            "fecha": "2026-04-25",
+            "hora": "17:48:00",
+            "tds": 687.38,
+            "turbidez": 13.32,
+            "ph": 6.89
+        },
+        {
+            "watercheck_id": "WC015",
+            "fecha": "2026-04-25",
+            "hora": "17:49:00",
+            "tds": 1525.05,
+            "turbidez": 7.06,
+            "ph": 8.15
+        },
+        {
+            "watercheck_id": "WC016",
+            "fecha": "2026-04-25",
+            "hora": "17:50:00",
+            "tds": 68.91,
+            "turbidez": 4.07,
+            "ph": 6.12
+        },
+        {
+            "watercheck_id": "WC017",
+            "fecha": "2026-04-25",
+            "hora": "17:51:00",
+            "tds": 78.03,
+            "turbidez": 13.21,
+            "ph": 7.96
+        },
+        {
+            "watercheck_id": "WC018",
+            "fecha": "2026-04-25",
+            "hora": "17:52:00",
+            "tds": 849.34,
+            "turbidez": 8.47,
+            "ph": 8.13
+        },
+        {
+            "watercheck_id": "WC019",
+            "fecha": "2026-04-25",
+            "hora": "17:53:00",
+            "tds": 1640.97,
+            "turbidez": 10.21,
+            "ph": 7.78
+        },
+        {
+            "watercheck_id": "WC020",
+            "fecha": "2026-04-25",
+            "hora": "17:54:00",
+            "tds": 703.56,
+            "turbidez": 7.58,
+            "ph": 8.47
+        },
+        {
+            "watercheck_id": "WC001",
+            "fecha": "2026-04-25",
+            "hora": "17:55:00",
+            "tds": 1095.55,
+            "turbidez": 3.26,
+            "ph": 8.39
+        },
+        {
+            "watercheck_id": "WC002",
+            "fecha": "2026-04-25",
+            "hora": "17:56:00",
+            "tds": 538.56,
+            "turbidez": 5.02,
+            "ph": 8.39
+        },
+        {
+            "watercheck_id": "WC003",
+            "fecha": "2026-04-25",
+            "hora": "17:57:00",
+            "tds": 1327.69,
+            "turbidez": 6.43,
+            "ph": 7.77
+        },
+        {
+            "watercheck_id": "WC004",
+            "fecha": "2026-04-25",
+            "hora": "17:58:00",
+            "tds": 93.93,
+            "turbidez": 8.25,
+            "ph": 6.92
+        },
+        {
+            "watercheck_id": "WC005",
+            "fecha": "2026-04-25",
+            "hora": "17:59:00",
+            "tds": 1091.93,
+            "turbidez": 7.51,
+            "ph": 6.53
+        },
+        {
+            "watercheck_id": "WC006",
+            "fecha": "2026-04-25",
+            "hora": "18:00:00",
+            "tds": 1121.44,
+            "turbidez": 8.69,
+            "ph": 7.45
+        },
+        {
+            "watercheck_id": "WC007",
+            "fecha": "2026-04-25",
+            "hora": "18:01:00",
+            "tds": 432.1,
+            "turbidez": 4.82,
+            "ph": 6.08
+        },
+        {
+            "watercheck_id": "WC008",
+            "fecha": "2026-04-25",
+            "hora": "18:02:00",
+            "tds": 973.85,
+            "turbidez": 13.74,
+            "ph": 8.05
+        },
+        {
+            "watercheck_id": "WC009",
+            "fecha": "2026-04-25",
+            "hora": "18:03:00",
+            "tds": 409.71,
+            "turbidez": 8.02,
+            "ph": 7.87
+        },
+        {
+            "watercheck_id": "WC010",
+            "fecha": "2026-04-25",
+            "hora": "18:04:00",
+            "tds": 958.91,
+            "turbidez": 8.24,
+            "ph": 6.41
+        },
+        {
+            "watercheck_id": "WC011",
+            "fecha": "2026-04-25",
+            "hora": "18:05:00",
+            "tds": 539.23,
+            "turbidez": 6.82,
+            "ph": 6.05
+        },
+        {
+            "watercheck_id": "WC012",
+            "fecha": "2026-04-25",
+            "hora": "18:06:00",
+            "tds": 865.99,
+            "turbidez": 11.96,
+            "ph": 6.5
+        },
+        {
+            "watercheck_id": "WC013",
+            "fecha": "2026-04-25",
+            "hora": "18:07:00",
+            "tds": 16.24,
+            "turbidez": 8.25,
+            "ph": 7.67
+        },
+        {
+            "watercheck_id": "WC014",
+            "fecha": "2026-04-25",
+            "hora": "18:08:00",
+            "tds": 660.2,
+            "turbidez": 11.04,
+            "ph": 8.38
+        },
+        {
+            "watercheck_id": "WC015",
+            "fecha": "2026-04-25",
+            "hora": "18:09:00",
+            "tds": 1148.16,
+            "turbidez": 14.06,
+            "ph": 7.47
+        },
+        {
+            "watercheck_id": "WC016",
+            "fecha": "2026-04-25",
+            "hora": "18:10:00",
+            "tds": 808.87,
+            "turbidez": 1.79,
+            "ph": 8.01
+        },
+        {
+            "watercheck_id": "WC017",
+            "fecha": "2026-04-25",
+            "hora": "18:11:00",
+            "tds": 218.97,
+            "turbidez": 14.62,
+            "ph": 8.44
+        },
+        {
+            "watercheck_id": "WC018",
+            "fecha": "2026-04-25",
+            "hora": "18:12:00",
+            "tds": 769.71,
+            "turbidez": 4.4,
+            "ph": 7.7
+        },
+        {
+            "watercheck_id": "WC019",
+            "fecha": "2026-04-25",
+            "hora": "18:13:00",
+            "tds": 105.98,
+            "turbidez": 4.07,
+            "ph": 7.11
+        },
+        {
+            "watercheck_id": "WC020",
+            "fecha": "2026-04-25",
+            "hora": "18:14:00",
+            "tds": 1618.8,
+            "turbidez": 3.41,
+            "ph": 7.82
+        },
+        {
+            "watercheck_id": "WC001",
+            "fecha": "2026-04-25",
+            "hora": "18:15:00",
+            "tds": 221.67,
+            "turbidez": 13.92,
+            "ph": 8.35
+        },
+        {
+            "watercheck_id": "WC002",
+            "fecha": "2026-04-25",
+            "hora": "18:16:00",
+            "tds": 628.53,
+            "turbidez": 11.32,
+            "ph": 7.33
+        },
+        {
+            "watercheck_id": "WC003",
+            "fecha": "2026-04-25",
+            "hora": "18:17:00",
+            "tds": 122.17,
+            "turbidez": 4.78,
+            "ph": 8.48
+        },
+        {
+            "watercheck_id": "WC004",
+            "fecha": "2026-04-25",
+            "hora": "18:18:00",
+            "tds": 237.0,
+            "turbidez": 5.29,
+            "ph": 7.72
+        },
+        {
+            "watercheck_id": "WC005",
+            "fecha": "2026-04-25",
+            "hora": "18:19:00",
+            "tds": 1442.41,
+            "turbidez": 7.84,
+            "ph": 7.3
+        },
+        {
+            "watercheck_id": "WC006",
+            "fecha": "2026-04-25",
+            "hora": "18:20:00",
+            "tds": 995.32,
+            "turbidez": 9.26,
+            "ph": 8.15
+        },
+        {
+            "watercheck_id": "WC007",
+            "fecha": "2026-04-25",
+            "hora": "18:21:00",
+            "tds": 458.16,
+            "turbidez": 0.86,
+            "ph": 7.51
+        },
+        {
+            "watercheck_id": "WC008",
+            "fecha": "2026-04-25",
+            "hora": "18:22:00",
+            "tds": 539.01,
+            "turbidez": 13.45,
+            "ph": 6.2
+        },
+        {
+            "watercheck_id": "WC009",
+            "fecha": "2026-04-25",
+            "hora": "18:23:00",
+            "tds": 1621.16,
+            "turbidez": 5.95,
+            "ph": 7.96
+        },
+        {
+            "watercheck_id": "WC010",
+            "fecha": "2026-04-25",
+            "hora": "18:24:00",
+            "tds": 835.04,
+            "turbidez": 0.24,
+            "ph": 7.81
+        },
+        {
+            "watercheck_id": "WC011",
+            "fecha": "2026-04-25",
+            "hora": "18:25:00",
+            "tds": 291.86,
+            "turbidez": 2.82,
+            "ph": 7.71
+        },
+        {
+            "watercheck_id": "WC012",
+            "fecha": "2026-04-25",
+            "hora": "18:26:00",
+            "tds": 176.92,
+            "turbidez": 2.96,
+            "ph": 8.32
+        },
+        {
+            "watercheck_id": "WC013",
+            "fecha": "2026-04-25",
+            "hora": "18:27:00",
+            "tds": 146.38,
+            "turbidez": 10.65,
+            "ph": 8.02
+        },
+        {
+            "watercheck_id": "WC014",
+            "fecha": "2026-04-25",
+            "hora": "18:28:00",
+            "tds": 708.93,
+            "turbidez": 4.81,
+            "ph": 7.69
+        },
+        {
+            "watercheck_id": "WC015",
+            "fecha": "2026-04-25",
+            "hora": "18:29:00",
+            "tds": 369.66,
+            "turbidez": 5.04,
+            "ph": 8.49
+        },
+        {
+            "watercheck_id": "WC016",
+            "fecha": "2026-04-25",
+            "hora": "18:30:00",
+            "tds": 1049.54,
+            "turbidez": 0.56,
+            "ph": 7.46
+        },
+        {
+            "watercheck_id": "WC017",
+            "fecha": "2026-04-25",
+            "hora": "18:31:00",
+            "tds": 1038.69,
+            "turbidez": 1.84,
+            "ph": 6.47
+        },
+        {
+            "watercheck_id": "WC018",
+            "fecha": "2026-04-25",
+            "hora": "18:32:00",
+            "tds": 325.96,
+            "turbidez": 4.99,
+            "ph": 6.29
+        },
+        {
+            "watercheck_id": "WC019",
+            "fecha": "2026-04-25",
+            "hora": "18:33:00",
+            "tds": 131.67,
+            "turbidez": 10.83,
+            "ph": 7.36
+        },
+        {
+            "watercheck_id": "WC020",
+            "fecha": "2026-04-25",
+            "hora": "18:34:00",
+            "tds": 390.22,
+            "turbidez": 1.96,
+            "ph": 6.2
+        },
+        {
+            "watercheck_id": "WC001",
+            "fecha": "2026-04-25",
+            "hora": "18:35:00",
+            "tds": 789.16,
+            "turbidez": 13.38,
+            "ph": 7.67
+        },
+        {
+            "watercheck_id": "WC002",
+            "fecha": "2026-04-25",
+            "hora": "18:36:00",
+            "tds": 298.91,
+            "turbidez": 0.71,
+            "ph": 6.3
+        },
+        {
+            "watercheck_id": "WC003",
+            "fecha": "2026-04-25",
+            "hora": "18:37:00",
+            "tds": 1000.48,
+            "turbidez": 7.36,
+            "ph": 8.07
+        },
+        {
+            "watercheck_id": "WC004",
+            "fecha": "2026-04-25",
+            "hora": "18:38:00",
+            "tds": 189.22,
+            "turbidez": 2.48,
+            "ph": 7.59
+        },
+        {
+            "watercheck_id": "WC005",
+            "fecha": "2026-04-25",
+            "hora": "18:39:00",
+            "tds": 1412.07,
+            "turbidez": 14.92,
+            "ph": 8.29
+        },
+        {
+            "watercheck_id": "WC006",
+            "fecha": "2026-04-25",
+            "hora": "18:40:00",
+            "tds": 862.94,
+            "turbidez": 13.54,
+            "ph": 7.17
+        },
+        {
+            "watercheck_id": "WC007",
+            "fecha": "2026-04-25",
+            "hora": "18:41:00",
+            "tds": 711.93,
+            "turbidez": 1.55,
+            "ph": 7.33
+        },
+        {
+            "watercheck_id": "WC008",
+            "fecha": "2026-04-25",
+            "hora": "18:42:00",
+            "tds": 1051.75,
+            "turbidez": 2.22,
+            "ph": 8.39
+        },
+        {
+            "watercheck_id": "WC009",
+            "fecha": "2026-04-25",
+            "hora": "18:43:00",
+            "tds": 652.69,
+            "turbidez": 4.38,
+            "ph": 7.0
+        },
+        {
+            "watercheck_id": "WC010",
+            "fecha": "2026-04-25",
+            "hora": "18:44:00",
+            "tds": 65.92,
+            "turbidez": 14.6,
+            "ph": 6.19
+        },
+        {
+            "watercheck_id": "WC011",
+            "fecha": "2026-04-25",
+            "hora": "18:45:00",
+            "tds": 1320.6,
+            "turbidez": 1.53,
+            "ph": 6.57
+        },
+        {
+            "watercheck_id": "WC012",
+            "fecha": "2026-04-25",
+            "hora": "18:46:00",
+            "tds": 166.95,
+            "turbidez": 3.43,
+            "ph": 8.44
+        },
+        {
+            "watercheck_id": "WC013",
+            "fecha": "2026-04-25",
+            "hora": "18:47:00",
+            "tds": 931.38,
+            "turbidez": 2.71,
+            "ph": 7.95
+        },
+        {
+            "watercheck_id": "WC014",
+            "fecha": "2026-04-25",
+            "hora": "18:48:00",
+            "tds": 1508.36,
+            "turbidez": 14.28,
+            "ph": 7.49
+        },
+        {
+            "watercheck_id": "WC015",
+            "fecha": "2026-04-25",
+            "hora": "18:49:00",
+            "tds": 245.22,
+            "turbidez": 2.21,
+            "ph": 8.09
+        },
+        {
+            "watercheck_id": "WC016",
+            "fecha": "2026-04-25",
+            "hora": "18:50:00",
+            "tds": 155.28,
+            "turbidez": 8.9,
+            "ph": 6.47
+        },
+        {
+            "watercheck_id": "WC017",
+            "fecha": "2026-04-25",
+            "hora": "18:51:00",
+            "tds": 1764.25,
+            "turbidez": 1.45,
+            "ph": 8.44
+        },
+        {
+            "watercheck_id": "WC018",
+            "fecha": "2026-04-25",
+            "hora": "18:52:00",
+            "tds": 154.32,
+            "turbidez": 1.25,
+            "ph": 7.27
+        },
+        {
+            "watercheck_id": "WC019",
+            "fecha": "2026-04-25",
+            "hora": "18:53:00",
+            "tds": 470.93,
+            "turbidez": 4.03,
+            "ph": 7.33
+        },
+        {
+            "watercheck_id": "WC020",
+            "fecha": "2026-04-25",
+            "hora": "18:54:00",
+            "tds": 229.87,
+            "turbidez": 7.82,
+            "ph": 8.46
+        },
+        {
+            "watercheck_id": "WC001",
+            "fecha": "2026-04-25",
+            "hora": "18:55:00",
+            "tds": 994.46,
+            "turbidez": 2.46,
+            "ph": 7.14
+        },
+        {
+            "watercheck_id": "WC002",
+            "fecha": "2026-04-25",
+            "hora": "18:56:00",
+            "tds": 403.98,
+            "turbidez": 3.94,
+            "ph": 7.82
+        },
+        {
+            "watercheck_id": "WC003",
+            "fecha": "2026-04-25",
+            "hora": "18:57:00",
+            "tds": 607.95,
+            "turbidez": 5.03,
+            "ph": 6.94
+        },
+        {
+            "watercheck_id": "WC004",
+            "fecha": "2026-04-25",
+            "hora": "18:58:00",
+            "tds": 1174.78,
+            "turbidez": 7.51,
+            "ph": 7.71
+        },
+        {
+            "watercheck_id": "WC005",
+            "fecha": "2026-04-25",
+            "hora": "18:59:00",
+            "tds": 413.96,
+            "turbidez": 9.44,
+            "ph": 7.25
+        },
+        {
+            "watercheck_id": "WC006",
+            "fecha": "2026-04-25",
+            "hora": "19:00:00",
+            "tds": 510.05,
+            "turbidez": 6.65,
+            "ph": 6.91
+        },
+        {
+            "watercheck_id": "WC007",
+            "fecha": "2026-04-25",
+            "hora": "19:01:00",
+            "tds": 136.69,
+            "turbidez": 0.6,
+            "ph": 7.82
+        },
+        {
+            "watercheck_id": "WC008",
+            "fecha": "2026-04-25",
+            "hora": "19:02:00",
+            "tds": 893.11,
+            "turbidez": 8.72,
+            "ph": 6.15
+        },
+        {
+            "watercheck_id": "WC009",
+            "fecha": "2026-04-25",
+            "hora": "19:03:00",
+            "tds": 885.01,
+            "turbidez": 2.13,
+            "ph": 6.58
+        },
+        {
+            "watercheck_id": "WC010",
+            "fecha": "2026-04-25",
+            "hora": "19:04:00",
+            "tds": 1027.51,
+            "turbidez": 11.15,
+            "ph": 7.56
+        },
+        {
+            "watercheck_id": "WC011",
+            "fecha": "2026-04-25",
+            "hora": "19:05:00",
+            "tds": 174.8,
+            "turbidez": 3.96,
+            "ph": 7.79
+        },
+        {
+            "watercheck_id": "WC012",
+            "fecha": "2026-04-25",
+            "hora": "19:06:00",
+            "tds": 229.95,
+            "turbidez": 9.65,
+            "ph": 6.76
+        },
+        {
+            "watercheck_id": "WC013",
+            "fecha": "2026-04-25",
+            "hora": "19:07:00",
+            "tds": 1401.93,
+            "turbidez": 0.76,
+            "ph": 6.46
+        },
+        {
+            "watercheck_id": "WC014",
+            "fecha": "2026-04-25",
+            "hora": "19:08:00",
+            "tds": 554.02,
+            "turbidez": 14.21,
+            "ph": 6.11
+        },
+        {
+            "watercheck_id": "WC015",
+            "fecha": "2026-04-25",
+            "hora": "19:09:00",
+            "tds": 1167.13,
+            "turbidez": 3.22,
+            "ph": 6.34
+        },
+        {
+            "watercheck_id": "WC016",
+            "fecha": "2026-04-25",
+            "hora": "19:10:00",
+            "tds": 648.22,
+            "turbidez": 8.59,
+            "ph": 7.92
+        },
+        {
+            "watercheck_id": "WC017",
+            "fecha": "2026-04-25",
+            "hora": "19:11:00",
+            "tds": 785.37,
+            "turbidez": 12.85,
+            "ph": 7.7
+        },
+        {
+            "watercheck_id": "WC018",
+            "fecha": "2026-04-25",
+            "hora": "19:12:00",
+            "tds": 1608.17,
+            "turbidez": 11.18,
+            "ph": 6.56
+        },
+        {
+            "watercheck_id": "WC019",
+            "fecha": "2026-04-25",
+            "hora": "19:13:00",
+            "tds": 1062.37,
+            "turbidez": 4.08,
+            "ph": 8.14
+        },
+        {
+            "watercheck_id": "WC020",
+            "fecha": "2026-04-25",
+            "hora": "19:14:00",
+            "tds": 946.73,
+            "turbidez": 8.12,
+            "ph": 6.97
+        },
+        {
+            "watercheck_id": "WC001",
+            "fecha": "2026-04-25",
+            "hora": "19:15:00",
+            "tds": 481.97,
+            "turbidez": 2.03,
+            "ph": 6.64
+        },
+        {
+            "watercheck_id": "WC002",
+            "fecha": "2026-04-25",
+            "hora": "19:16:00",
+            "tds": 160.69,
+            "turbidez": 6.0,
+            "ph": 6.06
+        },
+        {
+            "watercheck_id": "WC003",
+            "fecha": "2026-04-25",
+            "hora": "19:17:00",
+            "tds": 1100.19,
+            "turbidez": 0.91,
+            "ph": 7.1
+        },
+        {
+            "watercheck_id": "WC004",
+            "fecha": "2026-04-25",
+            "hora": "19:18:00",
+            "tds": 1328.79,
+            "turbidez": 4.93,
+            "ph": 7.66
+        },
+        {
+            "watercheck_id": "WC005",
+            "fecha": "2026-04-25",
+            "hora": "19:19:00",
+            "tds": 1494.87,
+            "turbidez": 0.39,
+            "ph": 6.81
+        },
+        {
+            "watercheck_id": "WC006",
+            "fecha": "2026-04-25",
+            "hora": "19:20:00",
+            "tds": 1609.38,
+            "turbidez": 11.93,
+            "ph": 8.45
+        },
+        {
+            "watercheck_id": "WC007",
+            "fecha": "2026-04-25",
+            "hora": "19:21:00",
+            "tds": 1136.8,
+            "turbidez": 10.37,
+            "ph": 7.83
+        },
+        {
+            "watercheck_id": "WC008",
+            "fecha": "2026-04-25",
+            "hora": "19:22:00",
+            "tds": 1461.25,
+            "turbidez": 11.51,
+            "ph": 6.04
+        },
+        {
+            "watercheck_id": "WC009",
+            "fecha": "2026-04-25",
+            "hora": "19:23:00",
+            "tds": 1029.71,
+            "turbidez": 8.05,
+            "ph": 6.31
+        },
+        {
+            "watercheck_id": "WC010",
+            "fecha": "2026-04-25",
+            "hora": "19:24:00",
+            "tds": 122.66,
+            "turbidez": 8.25,
+            "ph": 6.59
+        },
+        {
+            "watercheck_id": "WC011",
+            "fecha": "2026-04-25",
+            "hora": "19:25:00",
+            "tds": 169.35,
+            "turbidez": 6.57,
+            "ph": 7.67
+        },
+        {
+            "watercheck_id": "WC012",
+            "fecha": "2026-04-25",
+            "hora": "19:26:00",
+            "tds": 827.72,
+            "turbidez": 0.28,
+            "ph": 7.47
+        },
+        {
+            "watercheck_id": "WC013",
+            "fecha": "2026-04-25",
+            "hora": "19:27:00",
+            "tds": 97.86,
+            "turbidez": 7.47,
+            "ph": 7.79
+        },
+        {
+            "watercheck_id": "WC014",
+            "fecha": "2026-04-25",
+            "hora": "19:28:00",
+            "tds": 1577.82,
+            "turbidez": 10.5,
+            "ph": 7.96
+        },
+        {
+            "watercheck_id": "WC015",
+            "fecha": "2026-04-25",
+            "hora": "19:29:00",
+            "tds": 342.72,
+            "turbidez": 0.54,
+            "ph": 6.97
+        },
+        {
+            "watercheck_id": "WC016",
+            "fecha": "2026-04-25",
+            "hora": "19:30:00",
+            "tds": 1091.53,
+            "turbidez": 2.02,
+            "ph": 7.5
+        },
+        {
+            "watercheck_id": "WC017",
+            "fecha": "2026-04-25",
+            "hora": "19:31:00",
+            "tds": 1798.21,
+            "turbidez": 1.27,
+            "ph": 7.56
+        },
+        {
+            "watercheck_id": "WC018",
+            "fecha": "2026-04-25",
+            "hora": "19:32:00",
+            "tds": 1606.32,
+            "turbidez": 12.02,
+            "ph": 7.04
+        },
+        {
+            "watercheck_id": "WC019",
+            "fecha": "2026-04-25",
+            "hora": "19:33:00",
+            "tds": 398.09,
+            "turbidez": 8.27,
+            "ph": 6.12
+        },
+        {
+            "watercheck_id": "WC020",
+            "fecha": "2026-04-25",
+            "hora": "19:34:00",
+            "tds": 1169.24,
+            "turbidez": 11.88,
+            "ph": 7.85
+        },
+        {
+            "watercheck_id": "WC001",
+            "fecha": "2026-04-25",
+            "hora": "19:35:00",
+            "tds": 855.8,
+            "turbidez": 14.34,
+            "ph": 6.21
+        },
+        {
+            "watercheck_id": "WC002",
+            "fecha": "2026-04-25",
+            "hora": "19:36:00",
+            "tds": 1310.04,
+            "turbidez": 14.03,
+            "ph": 8.2
+        },
+        {
+            "watercheck_id": "WC003",
+            "fecha": "2026-04-25",
+            "hora": "19:37:00",
+            "tds": 1005.84,
+            "turbidez": 0.94,
+            "ph": 6.16
+        },
+        {
+            "watercheck_id": "WC004",
+            "fecha": "2026-04-25",
+            "hora": "19:38:00",
+            "tds": 1781.87,
+            "turbidez": 7.16,
+            "ph": 7.88
+        },
+        {
+            "watercheck_id": "WC005",
+            "fecha": "2026-04-25",
+            "hora": "19:39:00",
+            "tds": 11.9,
+            "turbidez": 11.84,
+            "ph": 7.71
+        },
+        {
+            "watercheck_id": "WC006",
+            "fecha": "2026-04-25",
+            "hora": "19:40:00",
+            "tds": 1067.48,
+            "turbidez": 7.79,
+            "ph": 7.72
+        },
+        {
+            "watercheck_id": "WC007",
+            "fecha": "2026-04-25",
+            "hora": "19:41:00",
+            "tds": 331.87,
+            "turbidez": 10.63,
+            "ph": 7.3
+        },
+        {
+            "watercheck_id": "WC008",
+            "fecha": "2026-04-25",
+            "hora": "19:42:00",
+            "tds": 621.95,
+            "turbidez": 10.52,
+            "ph": 7.06
+        },
+        {
+            "watercheck_id": "WC009",
+            "fecha": "2026-04-25",
+            "hora": "19:43:00",
+            "tds": 887.3,
+            "turbidez": 4.71,
+            "ph": 7.94
+        },
+        {
+            "watercheck_id": "WC010",
+            "fecha": "2026-04-25",
+            "hora": "19:44:00",
+            "tds": 1140.59,
+            "turbidez": 12.1,
+            "ph": 7.49
+        },
+        {
+            "watercheck_id": "WC011",
+            "fecha": "2026-04-25",
+            "hora": "19:45:00",
+            "tds": 689.09,
+            "turbidez": 2.83,
+            "ph": 6.01
+        },
+        {
+            "watercheck_id": "WC012",
+            "fecha": "2026-04-25",
+            "hora": "19:46:00",
+            "tds": 457.56,
+            "turbidez": 10.91,
+            "ph": 6.25
+        },
+        {
+            "watercheck_id": "WC013",
+            "fecha": "2026-04-25",
+            "hora": "19:47:00",
+            "tds": 920.22,
+            "turbidez": 4.81,
+            "ph": 6.52
+        },
+        {
+            "watercheck_id": "WC014",
+            "fecha": "2026-04-25",
+            "hora": "19:48:00",
+            "tds": 332.14,
+            "turbidez": 5.11,
+            "ph": 6.42
+        },
+        {
+            "watercheck_id": "WC015",
+            "fecha": "2026-04-25",
+            "hora": "19:49:00",
+            "tds": 1408.76,
+            "turbidez": 4.58,
+            "ph": 6.39
+        },
+        {
+            "watercheck_id": "WC016",
+            "fecha": "2026-04-25",
+            "hora": "19:50:00",
+            "tds": 244.71,
+            "turbidez": 6.72,
+            "ph": 6.16
+        },
+        {
+            "watercheck_id": "WC017",
+            "fecha": "2026-04-25",
+            "hora": "19:51:00",
+            "tds": 850.3,
+            "turbidez": 11.21,
+            "ph": 7.22
+        },
+        {
+            "watercheck_id": "WC018",
+            "fecha": "2026-04-25",
+            "hora": "19:52:00",
+            "tds": 490.15,
+            "turbidez": 11.46,
+            "ph": 8.07
+        },
+        {
+            "watercheck_id": "WC019",
+            "fecha": "2026-04-25",
+            "hora": "19:53:00",
+            "tds": 1518.5,
+            "turbidez": 8.51,
+            "ph": 7.95
+        },
+        {
+            "watercheck_id": "WC020",
+            "fecha": "2026-04-25",
+            "hora": "19:54:00",
+            "tds": 645.33,
+            "turbidez": 2.31,
+            "ph": 6.19
+        },
+        {
+            "watercheck_id": "WC001",
+            "fecha": "2026-04-25",
+            "hora": "19:55:00",
+            "tds": 782.12,
+            "turbidez": 9.0,
+            "ph": 7.92
+        },
+        {
+            "watercheck_id": "WC002",
+            "fecha": "2026-04-25",
+            "hora": "19:56:00",
+            "tds": 130.16,
+            "turbidez": 0.46,
+            "ph": 6.12
+        },
+        {
+            "watercheck_id": "WC003",
+            "fecha": "2026-04-25",
+            "hora": "19:57:00",
+            "tds": 161.9,
+            "turbidez": 0.53,
+            "ph": 7.33
+        },
+        {
+            "watercheck_id": "WC004",
+            "fecha": "2026-04-25",
+            "hora": "19:58:00",
+            "tds": 268.15,
+            "turbidez": 6.84,
+            "ph": 6.32
+        },
+        {
+            "watercheck_id": "WC005",
+            "fecha": "2026-04-25",
+            "hora": "19:59:00",
+            "tds": 1297.08,
+            "turbidez": 11.81,
+            "ph": 7.76
+        },
+        {
+            "watercheck_id": "WC006",
+            "fecha": "2026-04-25",
+            "hora": "20:00:00",
+            "tds": 1476.78,
+            "turbidez": 13.55,
+            "ph": 7.79
+        },
+        {
+            "watercheck_id": "WC007",
+            "fecha": "2026-04-25",
+            "hora": "20:01:00",
+            "tds": 824.62,
+            "turbidez": 14.67,
+            "ph": 7.71
+        },
+        {
+            "watercheck_id": "WC008",
+            "fecha": "2026-04-25",
+            "hora": "20:02:00",
+            "tds": 1537.36,
+            "turbidez": 1.36,
+            "ph": 7.45
+        },
+        {
+            "watercheck_id": "WC009",
+            "fecha": "2026-04-25",
+            "hora": "20:03:00",
+            "tds": 751.54,
+            "turbidez": 0.92,
+            "ph": 7.56
+        },
+        {
+            "watercheck_id": "WC010",
+            "fecha": "2026-04-25",
+            "hora": "20:04:00",
+            "tds": 1178.75,
+            "turbidez": 2.02,
+            "ph": 6.24
+        },
+        {
+            "watercheck_id": "WC011",
+            "fecha": "2026-04-25",
+            "hora": "20:05:00",
+            "tds": 910.65,
+            "turbidez": 13.81,
+            "ph": 7.66
+        },
+        {
+            "watercheck_id": "WC012",
+            "fecha": "2026-04-25",
+            "hora": "20:06:00",
+            "tds": 1549.77,
+            "turbidez": 4.23,
+            "ph": 8.4
+        },
+        {
+            "watercheck_id": "WC013",
+            "fecha": "2026-04-25",
+            "hora": "20:07:00",
+            "tds": 1218.75,
+            "turbidez": 8.4,
+            "ph": 6.02
+        },
+        {
+            "watercheck_id": "WC014",
+            "fecha": "2026-04-25",
+            "hora": "20:08:00",
+            "tds": 86.8,
+            "turbidez": 4.6,
+            "ph": 7.68
+        },
+        {
+            "watercheck_id": "WC015",
+            "fecha": "2026-04-25",
+            "hora": "20:09:00",
+            "tds": 970.0,
+            "turbidez": 14.26,
+            "ph": 6.81
+        },
+        {
+            "watercheck_id": "WC016",
+            "fecha": "2026-04-25",
+            "hora": "20:10:00",
+            "tds": 400.56,
+            "turbidez": 14.63,
+            "ph": 8.35
+        },
+        {
+            "watercheck_id": "WC017",
+            "fecha": "2026-04-25",
+            "hora": "20:11:00",
+            "tds": 139.33,
+            "turbidez": 9.29,
+            "ph": 7.33
+        },
+        {
+            "watercheck_id": "WC018",
+            "fecha": "2026-04-25",
+            "hora": "20:12:00",
+            "tds": 1269.56,
+            "turbidez": 9.66,
+            "ph": 6.33
+        },
+        {
+            "watercheck_id": "WC019",
+            "fecha": "2026-04-25",
+            "hora": "20:13:00",
+            "tds": 866.45,
+            "turbidez": 0.55,
+            "ph": 8.38
+        },
+        {
+            "watercheck_id": "WC020",
+            "fecha": "2026-04-25",
+            "hora": "20:14:00",
+            "tds": 463.92,
+            "turbidez": 1.29,
+            "ph": 6.54
+        },
+        {
+            "watercheck_id": "WC001",
+            "fecha": "2026-04-25",
+            "hora": "20:15:00",
+            "tds": 168.83,
+            "turbidez": 13.09,
+            "ph": 8.14
+        },
+        {
+            "watercheck_id": "WC002",
+            "fecha": "2026-04-25",
+            "hora": "20:16:00",
+            "tds": 374.69,
+            "turbidez": 2.41,
+            "ph": 7.61
+        },
+        {
+            "watercheck_id": "WC003",
+            "fecha": "2026-04-25",
+            "hora": "20:17:00",
+            "tds": 708.0,
+            "turbidez": 7.13,
+            "ph": 6.2
+        },
+        {
+            "watercheck_id": "WC004",
+            "fecha": "2026-04-25",
+            "hora": "20:18:00",
+            "tds": 1028.98,
+            "turbidez": 12.07,
+            "ph": 8.09
+        },
+        {
+            "watercheck_id": "WC005",
+            "fecha": "2026-04-25",
+            "hora": "20:19:00",
+            "tds": 1368.74,
+            "turbidez": 1.9,
+            "ph": 7.97
+        },
+        {
+            "watercheck_id": "WC006",
+            "fecha": "2026-04-25",
+            "hora": "20:20:00",
+            "tds": 121.47,
+            "turbidez": 6.26,
+            "ph": 6.21
+        },
+        {
+            "watercheck_id": "WC007",
+            "fecha": "2026-04-25",
+            "hora": "20:21:00",
+            "tds": 555.13,
+            "turbidez": 2.23,
+            "ph": 6.71
+        },
+        {
+            "watercheck_id": "WC008",
+            "fecha": "2026-04-25",
+            "hora": "20:22:00",
+            "tds": 704.34,
+            "turbidez": 8.03,
+            "ph": 6.6
+        },
+        {
+            "watercheck_id": "WC009",
+            "fecha": "2026-04-25",
+            "hora": "20:23:00",
+            "tds": 1030.13,
+            "turbidez": 2.96,
+            "ph": 6.54
+        },
+        {
+            "watercheck_id": "WC010",
+            "fecha": "2026-04-25",
+            "hora": "20:24:00",
+            "tds": 1372.14,
+            "turbidez": 9.56,
+            "ph": 6.31
+        },
+        {
+            "watercheck_id": "WC011",
+            "fecha": "2026-04-25",
+            "hora": "20:25:00",
+            "tds": 88.95,
+            "turbidez": 12.45,
+            "ph": 7.95
+        },
+        {
+            "watercheck_id": "WC012",
+            "fecha": "2026-04-25",
+            "hora": "20:26:00",
+            "tds": 309.03,
+            "turbidez": 5.07,
+            "ph": 6.35
+        },
+        {
+            "watercheck_id": "WC013",
+            "fecha": "2026-04-25",
+            "hora": "20:27:00",
+            "tds": 764.01,
+            "turbidez": 14.81,
+            "ph": 6.33
+        },
+        {
+            "watercheck_id": "WC014",
+            "fecha": "2026-04-25",
+            "hora": "20:28:00",
+            "tds": 1173.28,
+            "turbidez": 11.88,
+            "ph": 7.2
+        },
+        {
+            "watercheck_id": "WC015",
+            "fecha": "2026-04-25",
+            "hora": "20:29:00",
+            "tds": 1321.01,
+            "turbidez": 3.72,
+            "ph": 8.1
+        },
+        {
+            "watercheck_id": "WC016",
+            "fecha": "2026-04-25",
+            "hora": "20:30:00",
+            "tds": 160.53,
+            "turbidez": 7.72,
+            "ph": 7.22
+        },
+        {
+            "watercheck_id": "WC017",
+            "fecha": "2026-04-25",
+            "hora": "20:31:00",
+            "tds": 314.47,
+            "turbidez": 6.7,
+            "ph": 6.56
+        },
+        {
+            "watercheck_id": "WC018",
+            "fecha": "2026-04-25",
+            "hora": "20:32:00",
+            "tds": 611.75,
+            "turbidez": 10.64,
+            "ph": 6.68
+        },
+        {
+            "watercheck_id": "WC019",
+            "fecha": "2026-04-25",
+            "hora": "20:33:00",
+            "tds": 919.46,
+            "turbidez": 0.78,
+            "ph": 8.4
+        },
+        {
+            "watercheck_id": "WC020",
+            "fecha": "2026-04-25",
+            "hora": "20:34:00",
+            "tds": 1594.34,
+            "turbidez": 1.88,
+            "ph": 6.2
+        }
+    ]
+}
